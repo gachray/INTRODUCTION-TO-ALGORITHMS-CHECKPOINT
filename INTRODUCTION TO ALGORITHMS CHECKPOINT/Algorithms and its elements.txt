@@ -1,0 +1,18 @@
+1. Initialize three variables:
+   - sentence_length to 0
+   - word_count to 0
+   - vowel_count to 0
+
+2. Read the input sentence until a period is encountered
+
+3. Loop through each character in the sentence:
+   a. Increment sentence_length by 1
+   b. If the character is a space, increment word_count by 1
+   c. If the character is a vowel, increment vowel_count by 1
+
+4. Increment word_count by 1 to account for the last word
+
+5. Output the following:
+   - "Length of the sentence: " followed by sentence_length
+   - "Number of words in the sentence: " followed by word_count
+   - "Number of vowels in the sentence: " followed by vowel_count
