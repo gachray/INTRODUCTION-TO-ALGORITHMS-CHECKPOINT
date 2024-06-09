@@ -1,5 +1,6 @@
-# INTRODUCTION-TO-ALGORITHMS-CHECKPOINT
+# INTRODUCTION-TO-ALGORITHMS-AND-BASIC-CONCEPTS-CHECKPOINT
 
+TASK 1:
 GoMyCode checkpoint for introduction to algorithms. The task is to write an algorithm that read a sentence, which ends with a point, character by character, and to determine:
 
 Instructions
@@ -12,3 +13,13 @@ You have to keep in mind that:
 Each character will be treated separately.
 The last character is the point.
 Use three variables as counters.
+
+TASK 2:
+GoMyCode checkpoint for SORTING AND SEARCHING ALGORITHMS. The task is implementation of Insertion Sort using JavaScript:
+
+Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands. Each time we take a new card we put it in the right place in our hand.
+
+Instructions
+
+Each time work only with the first i-1 element from of the array
+Pick element arr[i] and insert it into sorted sequence in the array from 0 to i-1.
